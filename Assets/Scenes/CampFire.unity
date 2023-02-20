@@ -327,6 +327,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9152493248509121381, guid: 06d46a5ddcb98c2408b116193b4d2cf5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.046
+      objectReference: {fileID: 0}
+    - target: {fileID: 9152493248509121381, guid: 06d46a5ddcb98c2408b116193b4d2cf5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.186
+      objectReference: {fileID: 0}
+    - target: {fileID: 9152493248509121383, guid: 06d46a5ddcb98c2408b116193b4d2cf5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e614a8db23516f144b3d6b967b77011d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06d46a5ddcb98c2408b116193b4d2cf5, type: 3}
 --- !u!1001 &1020923005
@@ -380,6 +392,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2648214400662064585, guid: 38b2da958b340ec4fa5afaaf0c6b8310, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2648214400662064585, guid: 38b2da958b340ec4fa5afaaf0c6b8310, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.596
+      objectReference: {fileID: 0}
+    - target: {fileID: 4861216737681176703, guid: 38b2da958b340ec4fa5afaaf0c6b8310, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7b5edc13988ef474281090dcd65853d9, type: 2}
     - target: {fileID: 5433188149776296661, guid: 38b2da958b340ec4fa5afaaf0c6b8310, type: 3}
       propertyPath: m_Name
       value: IronTorch
@@ -556,5 +580,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trashcan
       objectReference: {fileID: 0}
+    - target: {fileID: 7289760827564702842, guid: 640eefb63e8c86f438089ae044d4926b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55b4ae333a58dac46851cf3091789948, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 640eefb63e8c86f438089ae044d4926b, type: 3}
