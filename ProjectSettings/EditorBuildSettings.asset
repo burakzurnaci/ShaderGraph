@@ -5,13 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: 
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/TestScene.unity
-    guid: 4e69ee68c97ac1b40ad1f284ed1b7447
-  - enabled: 1
-    path: Assets/Scenes/Test.unity
+    path: Assets/Scenes/Water.unity
     guid: 5a724c37f35b65c499529a43a1fb0323
+  - enabled: 1
+    path: Assets/Scenes/CampFire.unity
+    guid: 47171476b535514469666718dd6f99b6
   m_configObjects: {}
