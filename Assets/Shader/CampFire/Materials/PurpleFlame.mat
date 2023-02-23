@@ -31,5 +31,5 @@ Material:
     m_Colors:
     - Color_81D75D39: {r: 6.8679295, g: 2.3181942, b: 15.813397, a: 0}
     - Vector2_A6157063: {r: -0.1, g: -0.5, b: 0, a: 0}
-    - Vector2_FBD048D4: {r: 0, g: -0.1, b: 0, a: 0}
+    - Vector2_FBD048D4: {r: 0, g: -0.5, b: 0, a: 0}
   m_BuildTextureStacks: []

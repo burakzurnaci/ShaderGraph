@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LightPortal
+  m_Shader: {fileID: -6465566751694194690, guid: 35e9a382f32a878459f239e3c891bb06, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_116E3E67:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_365662B7: 28.7
+    - Vector1_55DE6E66: 2
+    - Vector1_903E671D: 0.5
+    - Vector1_DE6C9B1B: 3.5
+    m_Colors:
+    - Color_31BE63EB: {r: 0.4160559, g: 4.6745105, b: 3.3201187, a: 1}
+    - Color_EC4D7ED: {r: 13.484619, g: 30.739132, b: 23.586763, a: 1}
+  m_BuildTextureStacks: []
