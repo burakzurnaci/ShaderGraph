@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FollowHealthBar.unity
     guid: 7e998f63add94b9418d8947097121c78
+  - enabled: 1
+    path: Assets/Scenes/Blur.unity
+    guid: c0db1612be8f36f4fba5dc588ca18495
   m_configObjects: {}
