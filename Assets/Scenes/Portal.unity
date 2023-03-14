@@ -467,6 +467,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: OldPortal
       objectReference: {fileID: 0}
+    - target: {fileID: 4685302406763340719, guid: aef517cae7f452046bd6aade0dfb8daf, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685302406763340719, guid: aef517cae7f452046bd6aade0dfb8daf, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685302406763340719, guid: aef517cae7f452046bd6aade0dfb8daf, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4685302406763340719, guid: aef517cae7f452046bd6aade0dfb8daf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0153
+      objectReference: {fileID: 0}
     - target: {fileID: 5451483760529003555, guid: aef517cae7f452046bd6aade0dfb8daf, type: 3}
       propertyPath: m_RootOrder
       value: 6
