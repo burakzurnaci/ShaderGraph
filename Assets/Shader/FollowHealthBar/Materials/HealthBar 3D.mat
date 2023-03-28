@@ -74,7 +74,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_7418830: 0
-    - Fill: 0.428
+    - Fill: -0.2696666
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1

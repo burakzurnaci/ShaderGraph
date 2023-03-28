@@ -1106,6 +1106,59 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9932697c2c7b3444596e296595876b14, type: 3}
+--- !u!1 &1613593485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1613593487}
+  - component: {fileID: 1613593486}
+  m_Layer: 0
+  m_Name: Creative
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1613593486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613593485}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29948bce45c1e6046b00e6c01c737178, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  glowMaterials:
+  - {fileID: 2100000, guid: 587d58ce4fd83eb44a7e9ab3f5f90783, type: 2}
+  - {fileID: 2100000, guid: a4a92936b4e36d7468a756588c00d0ac, type: 2}
+  - {fileID: 2100000, guid: 39983f3cc2bb9f74e8ac2af62297ba20, type: 2}
+  - {fileID: 2100000, guid: 7d6acbc8e3dc5a6409d9f8192e1081d2, type: 2}
+  _index:
+  - 0
+  - 0
+  - 0
+  - 0
+--- !u!4 &1613593487
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613593485}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1910984489
 PrefabInstance:
   m_ObjectHideFlags: 0
