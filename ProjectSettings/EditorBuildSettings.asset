@@ -12,18 +12,24 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Outline.unity
+    path: Assets/UsefulShaders/OutLine/Scene/Outline.unity
     guid: 5a724c37f35b65c499529a43a1fb0323
   - enabled: 1
-    path: Assets/Scenes/CampFire.unity
+    path: Assets/UsefulShaders/CampFire/Scene/CampFire.unity
     guid: 47171476b535514469666718dd6f99b6
   - enabled: 1
-    path: Assets/Scenes/Portal.unity
+    path: Assets/UsefulShaders/Portal/Scene/Portal.unity
     guid: edac5a241e7d7b3448e9eb89defd6de3
   - enabled: 1
-    path: Assets/Scenes/FollowHealthBar.unity
+    path: Assets/UsefulShaders/FollowHealthBar/Scene/FollowHealthBar.unity
     guid: 7e998f63add94b9418d8947097121c78
   - enabled: 1
-    path: Assets/Scenes/Blur.unity
+    path: Assets/UsefulShaders/Blur/Scene/Blur.unity
     guid: c0db1612be8f36f4fba5dc588ca18495
+  - enabled: 1
+    path: Assets/UsefulShaders/Test/Test.unity
+    guid: 2fdba28ee5359604ab5a8093a705ffa6
+  - enabled: 1
+    path: Assets/UsefulShaders/Radar/Scene/Radar.unity
+    guid: 59d7cb8e04a9ba44385e1527521cc906
   m_configObjects: {}
