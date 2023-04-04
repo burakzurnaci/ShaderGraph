@@ -1,7 +1,7 @@
 # ShaderGraph
 Useful shaders made with ShaderGraph<br>
 <b>Cartoon Sea</b><br>
-![CartoonSea](https://user-images.githubusercontent.com/82811799/229793916-269a5ca5-bc5f-47f0-a45a-f132c2a27ef4.mp4)
+![CartoonSea_AdobeExpress](https://user-images.githubusercontent.com/82811799/229795628-72132557-13ac-4637-ba6c-a40f409a9cae.gif)
 <br>
 <b>Blur</b><br>
 <div=sour>
